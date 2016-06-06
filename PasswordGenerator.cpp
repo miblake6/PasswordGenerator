@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : PasswordGenerator.cpp
-// Author      : Macbrine
+// Author      : Macbrine and miblake6
 // Version     :
 // Copyright   : Don't do it
 // Description : Password Generator
